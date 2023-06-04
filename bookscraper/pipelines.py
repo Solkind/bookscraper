@@ -80,7 +80,7 @@ class SaveToMySQLPipeline:
         self.conn = mysql.connector.connect(
             host = 'localhost',
             user = 'root',
-            password = '1972Actor**',
+            password = '*********',
             database = 'freecodecamp_bookscraper'
         )
 
